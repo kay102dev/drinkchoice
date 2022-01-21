@@ -7,10 +7,12 @@ The app creates FORM UI using the response received from up2Tom api via GET, sen
 decision making via POST. lastly stores the response using our 'Backend', an express server exposing an API handling the storing and fetching of data from MongoDB Atlas.
 
 ## Usage
-
+Ensure you have node js installed
 ```
 git clone https://github.com/kay102dev/drinkchoice.git
+cd drinkchoice
 npm install
+npx tailwindcss -i ./src/index.css -o ./dist/output.css --watch
 npm run start dev
 ```
 
