@@ -28,13 +28,9 @@ npm run start dev
 ![Alt text](screenshot/cluster.png?raw=true "Title")
 
 
-
 ## Validations added
-
 - Form requires all fields to be present
-## Table
 ![Alt text](screenshot/validation.png?raw=true "Title")
-
 
 
 ### Additions
